@@ -1,0 +1,31 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    background-color: rgb(255, 252, 249);
+    margin: 0 auto;
+}
+
+.nav-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(144, 99, 93);   
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(144, 99, 93);
+}
+
+h2 {
+    margin: 0 auto;
+    color: rgb(177, 125, 125);
+  }
+  
+  h3 {
+    margin: 0 auto;
+    color: rgb(131, 111, 111);
+  }
+  

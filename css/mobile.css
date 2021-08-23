@@ -1,0 +1,56 @@
+body {
+  font-size: 1rem;
+  font: weight 300;
+}
+
+.btn-container {
+  padding: 0 2%;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.btn-container:hover {
+  background-color: rgba(179, 127, 127, 0.726);
+}
+
+.nav-container {
+  height: 3rem;
+  justify-content: center;
+}
+
+#imgLogo {
+  display: none;
+}
+
+#banner-one {
+  display: none;
+}
+
+#banner-two {
+  width: 100%;
+}
+
+.inf-container {
+  display: flex;
+  padding: 3%;
+  justify-content: space-around;
+  align-content: center;
+  flex-wrap: wrap-reverse;
+}
+
+.text-container {
+  color: rgb(61, 53, 53);
+  margin: 0 10%;
+  text-align: justify;
+}
+
+#img-inf {
+  width: 50%;
+  border-radius: 10px;
+}
+
+footer {
+  font-size: 0.8rem;
+  font: weight 300;
+  height: 2rem;
+}
